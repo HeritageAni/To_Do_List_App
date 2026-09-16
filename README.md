@@ -33,17 +33,6 @@ Built as a probation project for my web development society submission.
 
 ---
 
-## 🚀 How to Run Locally
-
-1. Clone this repository:
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-
-2. Open the project folder.
-
-3. Double-click index.html to open and view the app in your web browser.
-
----
-
 ## 💡 What I Learned During Probation
 
 - Understanding the DOM tree and dynamically generating HTML elements through JS code.
