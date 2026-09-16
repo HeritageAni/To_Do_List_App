@@ -1,8 +1,3 @@
-# To_Do_List_App
-
-### 2. To-Do List App (`README.md`)
-
-```markdown
 # 📝 Dark Theme To-Do List App
 
 A minimalist, aesthetic dark-themed task management application that allows users to add, mark complete, and delete tasks in real-time.
@@ -32,7 +27,25 @@ Built as a probation project for my web development society submission.
 
 ## 📁 File Structure
 
-```text
-├── index.html    # Base container and form structure
-├── style2.css    # Dark theme stylesheet and UI components
-└── script2.js    # Dynamic task generation and event handling logic
+- toDoListApp.html (Base container and form structure)
+- style2.css (Dark theme stylesheet and UI components)
+- script2.js (Dynamic task generation and event handling logic)
+
+---
+
+## 🚀 How to Run Locally
+
+1. Clone this repository:
+   git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+
+2. Open the project folder.
+
+3. Double-click index.html to open and view the app in your web browser.
+
+---
+
+## 💡 What I Learned During Probation
+
+- Understanding the DOM tree and dynamically generating HTML elements through JS code.
+- Applying CSS classes programmatically to alter element states (`.completed`).
+- Structuring a web application clean enough to decouple inline CSS styles completely into a standalone stylesheet.
